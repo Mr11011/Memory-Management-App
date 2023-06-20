@@ -1,0 +1,10 @@
+
+<resources>
+<string name="app_name">OsProjectVol2</string>
+<string name="free_memory">Free memory: %1$d bytes</string>
+<string name="used_memory">Used memory: %1$d bytes</string>
+<string name="allocate_memory">Allocate memory</string>
+<string name="free_memory_button">Free memory</string>
+    <color name="customized">#39B80D</color>
+
+</resources>
